@@ -8,7 +8,7 @@
 
 ## Production Version 1.0.0
 
-* Hosted on Heroku
+* Hosted on Heroku free tier
 * Link : [Chat Application](https://lit-mesa-80207.herokuapp.com/)
 
 ###  Running tests
